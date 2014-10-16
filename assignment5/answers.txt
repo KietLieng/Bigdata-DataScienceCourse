@@ -1,0 +1,14 @@
+1. 18146
+2. 39180
+3. 341.5
+4. pico, nano
+5. crypto
+6. 5004
+7. chl_small, pe
+8. 0.8567914
+9. 0.9182771
+10. pe, chl_small
+11. 0.9185535
+12. ultra is mistaken for pico
+13. fsc_big
+14. +0.0514804
